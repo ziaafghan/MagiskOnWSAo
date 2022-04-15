@@ -1,0 +1,2 @@
+# MagiskOnWSAo
+Magisk
